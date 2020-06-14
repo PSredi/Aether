@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aether-web-software", "aether-web-software\aether-web-software.csproj", "{EB9D3ACA-FB03-4005-9BE2-7B94BEBF7091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB9D3ACA-FB03-4005-9BE2-7B94BEBF7091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9D3ACA-FB03-4005-9BE2-7B94BEBF7091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9D3ACA-FB03-4005-9BE2-7B94BEBF7091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9D3ACA-FB03-4005-9BE2-7B94BEBF7091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
