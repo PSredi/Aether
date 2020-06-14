@@ -5,4 +5,8 @@
         <RootNamespace>aether_web_software</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="Pages\Model" />
+    </ItemGroup>
+
 </Project>
