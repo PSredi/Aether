@@ -1,10 +1,36 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Login";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container">
+    <div class="BrandContainer" align="center">
+        <div class="LogoContainer" style="float: left"><img src="https://media.discordapp.net/attachments/380288841648701440/722750779869364254/Aether_small.jpg" class="logo"/></div> &nbsp; 
+        <div class="nameContainer" style="float: right"> <h1 style="color: white" >Aether Engine</h1></div>
+    </div>
+			
+    <form action="" method="post">
+        <div class="InputContainer" align="center">
+            <div class="UserInput">
+                <label  for="user" style="color: white"></label>
+                &nbsp;  
+                <input class="inputUser" type="text" placeholder="Username or Email" name="user" required>
+            </div>
+				
+            <div class="PasswordInput">
+                <label  for="pass" style="color: white"></label>
+                &nbsp;  
+                <input class="inputPass" type="text" placeholder="Password" name="pass" required>
+            </div>
+
+            <div class="FPContainer"><a class="FP" href="#" style="text-decoration: none">Forgot Password? > </a></div>
+            <div class="LoginContainer"><a href="#" class="button" style="text-decoration: none"><span class="spanLogin">Login</span></a></div>
+            <div class="RegisterContainer"><a class="register" href="#" style="text-decoration: none">Create an account > </a></div>
+            <div class="MarginDiv"></div>
+        </div>
+    </form>
+			
+		
+			
 </div>

@@ -6,7 +6,15 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Folder Include="Pages\Controller" />
       <Folder Include="Pages\Model" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Update="wwwroot\fonts\lato-v16-latin-regular.woff2">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
     </ItemGroup>
 
 </Project>

@@ -19,7 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9986f4f2-56e1-4db9-9d29-befa701db9ab" name="Default Changelist" comment="" />
+    <list default="true" id="9986f4f2-56e1-4db9-9d29-befa701db9ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aether-web-software/wwwroot/fonts/lato-v16-latin-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.aether-web-software/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.aether-web-software/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.aether-web-software/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.aether-web-software/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/Pages/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/Pages/Index.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/Pages/Index.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/Pages/Privacy.cshtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/Pages/Privacy.cshtml.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/Pages/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/Pages/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/aether-web-software.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/aether-web-software.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/wwwroot/css/site.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,17 +42,33 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/aether-web-software/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Privacy.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aether-web-software/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/aether-web-software/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Error.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Shared/_ValidationScriptsPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AB1CA25A-5FB6-4BEE-A0AD-10A183B1358F/B/RazorPage.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/aether-web-software/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F37691AC-A4B5-468E-90D2-251FABC36FEA/1/MvcServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/aether-web-software/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/aether-web-software/Pages/Privacy.cshtml" />
+        <option value="$PROJECT_DIR$/aether-web-software/Pages/Index.cshtml" />
+        <option value="$PROJECT_DIR$/aether-web-software/wwwroot/css/site.css" />
+        <option value="$PROJECT_DIR$/aether-web-software/Pages/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/aether-web-software/Pages/Login.cshtml" />
+        <option value="$PROJECT_DIR$/aether-web-software/Pages/Login.cshtml.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dTgWmcMmoStFBEvWkdug97IZGu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -48,6 +76,17 @@
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.aether-web-software: IIS Express">
     <configuration name="aether-web-software: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
@@ -85,11 +124,54 @@
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9986f4f2-56e1-4db9-9d29-befa701db9ab" name="Default Changelist" comment="" />
+      <created>1592454543883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592454543883</updated>
+      <workItem from="1592454700120" duration="4310000" />
+      <workItem from="1592542583955" duration="3508000" />
+    </task>
     <servers />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592544297878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="654" y="310" key="#com.intellij.fileTypes.FileTypeChooser/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592544297878" />
+    <state width="1860" height="272" key="GridCell.Tab.0.bottom" timestamp="1592545514610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="272" key="GridCell.Tab.0.bottom/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592545514610" />
+    <state width="1860" height="272" key="GridCell.Tab.0.center" timestamp="1592545514610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="272" key="GridCell.Tab.0.center/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592545514610" />
+    <state width="1860" height="272" key="GridCell.Tab.0.left" timestamp="1592545514610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="272" key="GridCell.Tab.0.left/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592545514610" />
+    <state width="1860" height="272" key="GridCell.Tab.0.right" timestamp="1592545514610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="272" key="GridCell.Tab.0.right/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592545514610" />
   </component>
 </project>
