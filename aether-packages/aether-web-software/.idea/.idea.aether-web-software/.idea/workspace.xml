@@ -19,7 +19,47 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f16c85ae-7503-442e-abaf-88a3949854f1" name="Default Changelist" comment="" />
+    <list default="true" id="9986f4f2-56e1-4db9-9d29-befa701db9ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/aether-web-software.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/aether-web-software.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/aether-web-software.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/aether-web-software.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/aether-web-software.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/aether-web-software.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/aether-web-software.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/aether-web-software.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.RazorCoreGenerate.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.RazorTargetAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.TagHelpers.input.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.TagHelpers.output.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/staticwebassets/aether-web-software.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/staticwebassets/aether-web-software.StaticWebAssets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.aether-web-software/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.aether-web-software/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/Pages/Privacy.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/Pages/Privacy.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/Pages/Privacy.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/Pages/Privacy.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,19 +67,23 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/aether-web-software/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Privacy.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aether-web-software/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/aether-web-software/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Error.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Shared/_ValidationScriptsPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AB1CA25A-5FB6-4BEE-A0AD-10A183B1358F/B/RazorPage.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/aether-web-software/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F37691AC-A4B5-468E-90D2-251FABC36FEA/1/MvcServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/aether-web-software/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1dJdjiz3WQcpziofeo13Dnp0Evl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -55,6 +99,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.aether-web-software: IIS Express">
     <configuration name="aether-web-software: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
@@ -105,7 +151,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -117,9 +163,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1860" height="272" key="GridCell.Tab.0.bottom" timestamp="1592547333840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="272" key="GridCell.Tab.0.bottom/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592547333840" />
+    <state width="1860" height="272" key="GridCell.Tab.0.center" timestamp="1592547333840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="272" key="GridCell.Tab.0.center/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592547333840" />
+    <state width="1860" height="272" key="GridCell.Tab.0.left" timestamp="1592547333840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="272" key="GridCell.Tab.0.left/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592547333840" />
+    <state width="1860" height="272" key="GridCell.Tab.0.right" timestamp="1592547333840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="272" key="GridCell.Tab.0.right/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592547333840" />
+    <state x="681" y="157" key="RollbackChangesDialog" timestamp="1592547368726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="157" key="RollbackChangesDialog/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592547368726" />
+    <state x="749" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592547497039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592547497039" />
   </component>
 </project>
