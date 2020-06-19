@@ -34,3 +34,10 @@ C:\Users\User\Git\Aether\aether-packages\aether-web-software\aether-web-software
 C:\Users\User\Git\Aether\aether-packages\aether-web-software\aether-web-software\obj\Debug\netcoreapp3.1\aether-web-software.genruntimeconfig.cache
 C:\Users\User\Git\Aether\aether-packages\aether-web-software\aether-web-software\obj\Debug\netcoreapp3.1\aether-web-software.csproj.CopyComplete
 C:\Users\User\Git\Aether\aether-packages\aether-web-software\aether-web-software\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\Git\Aether\aether-packages\aether-web-software\aether-web-software\bin\Debug\netcoreapp3.1\electron.manifest.json
+C:\Users\User\Git\Aether\aether-packages\aether-web-software\aether-web-software\bin\Debug\netcoreapp3.1\ElectronNET.API.dll
+C:\Users\User\Git\Aether\aether-packages\aether-web-software\aether-web-software\bin\Debug\netcoreapp3.1\EngineIoClientDotNet.dll
+C:\Users\User\Git\Aether\aether-packages\aether-web-software\aether-web-software\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Git\Aether\aether-packages\aether-web-software\aether-web-software\bin\Debug\netcoreapp3.1\SocketIoClientDotNet.dll
+C:\Users\User\Git\Aether\aether-packages\aether-web-software\aether-web-software\bin\Debug\netcoreapp3.1\SuperSocket.ClientEngine.dll
+C:\Users\User\Git\Aether\aether-packages\aether-web-software\aether-web-software\bin\Debug\netcoreapp3.1\WebSocket4Net.dll

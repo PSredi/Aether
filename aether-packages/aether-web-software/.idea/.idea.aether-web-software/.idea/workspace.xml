@@ -20,17 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9986f4f2-56e1-4db9-9d29-befa701db9ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aether-web-software/wwwroot/fonts/lato-v16-latin-regular.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.aether-web-software/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.aether-web-software/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.aether-web-software/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.aether-web-software/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aether-web-software/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/Pages/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aether-web-software/Pages/Index.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/Pages/Index.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aether-web-software/Pages/Privacy.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aether-web-software/Pages/Privacy.cshtml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aether-web-software/Pages/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/Pages/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/Startup.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aether-web-software/aether-web-software.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/aether-web-software.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/aether-web-software.dll" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/aether-web-software.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/aether-web-software.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/bin/Debug/netcoreapp3.1/aether-web-software.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aether-web-software/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/wwwroot/css/site.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.dll" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/obj/Debug/netcoreapp3.1/aether-web-software.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/obj/aether-web-software.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/obj/aether-web-software.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/obj/aether-web-software.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/obj/aether-web-software.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aether-web-software/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/aether-web-software/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +62,10 @@
     <setting file="file://$PROJECT_DIR$/aether-web-software/Pages/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AB1CA25A-5FB6-4BEE-A0AD-10A183B1358F/B/RazorPage.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/aether-web-software/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/aether-web-software/electron.manifest.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F37691AC-A4B5-468E-90D2-251FABC36FEA/1/MvcServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/aether-web-software/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/aether-web-software/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -65,6 +76,9 @@
         <option value="$PROJECT_DIR$/aether-web-software/Pages/Shared/_Layout.cshtml" />
         <option value="$PROJECT_DIR$/aether-web-software/Pages/Login.cshtml" />
         <option value="$PROJECT_DIR$/aether-web-software/Pages/Login.cshtml.cs" />
+        <option value="$PROJECT_DIR$/aether-web-software/Program.cs" />
+        <option value="$PROJECT_DIR$/aether-web-software/aether-web-software.csproj" />
+        <option value="$PROJECT_DIR$/aether-web-software/Startup.cs" />
       </list>
     </option>
   </component>
@@ -132,6 +146,7 @@
       <updated>1592454543883</updated>
       <workItem from="1592454700120" duration="4310000" />
       <workItem from="1592542583955" duration="3508000" />
+      <workItem from="1592551961577" duration="1033000" />
     </task>
     <servers />
   </component>
@@ -153,25 +168,29 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="396" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592551176805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="396" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592551176805" />
     <state x="654" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592544297878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="654" y="310" key="#com.intellij.fileTypes.FileTypeChooser/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592544297878" />
-    <state width="1860" height="272" key="GridCell.Tab.0.bottom" timestamp="1592545514610">
+    <state width="1860" height="272" key="GridCell.Tab.0.bottom" timestamp="1592552397077">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="272" key="GridCell.Tab.0.bottom/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592545514610" />
-    <state width="1860" height="272" key="GridCell.Tab.0.center" timestamp="1592545514610">
+    <state width="1860" height="272" key="GridCell.Tab.0.bottom/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592552397077" />
+    <state width="1860" height="272" key="GridCell.Tab.0.center" timestamp="1592552397076">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="272" key="GridCell.Tab.0.center/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592545514610" />
-    <state width="1860" height="272" key="GridCell.Tab.0.left" timestamp="1592545514610">
+    <state width="1860" height="272" key="GridCell.Tab.0.center/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592552397076" />
+    <state width="1860" height="272" key="GridCell.Tab.0.left" timestamp="1592552397076">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="272" key="GridCell.Tab.0.left/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592545514610" />
-    <state width="1860" height="272" key="GridCell.Tab.0.right" timestamp="1592545514610">
+    <state width="1860" height="272" key="GridCell.Tab.0.left/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592552397076" />
+    <state width="1860" height="272" key="GridCell.Tab.0.right" timestamp="1592552397077">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1860" height="272" key="GridCell.Tab.0.right/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592545514610" />
+    <state width="1860" height="272" key="GridCell.Tab.0.right/1920.10.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1592552397077" />
   </component>
 </project>

@@ -1,20 +1,27 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
-
-    <PropertyGroup>
-        <TargetFramework>netcoreapp3.1</TargetFramework>
-        <RootNamespace>aether_web_software</RootNamespace>
-    </PropertyGroup>
-
-    <ItemGroup>
-      <Folder Include="Pages\Controller" />
-      <Folder Include="Pages\Model" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Content Update="wwwroot\fonts\lato-v16-latin-regular.woff2">
-        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
-        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      </Content>
-    </ItemGroup>
-
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>aether_web_software</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Pages\Controller" />
+    <Folder Include="Pages\Model" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Update="wwwroot\fonts\lato-v16-latin-regular.woff2">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="ElectronNET.API" Version="9.31.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="ElectronNET.CLI" Version="0.0.9" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Update="electron.manifest.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
 </Project>
