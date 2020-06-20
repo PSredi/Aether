@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
-namespace aether_web_software.Pages
+namespace Aether.Presentation.Pages
 {
     public class IndexModel : PageModel
     {
@@ -19,6 +19,7 @@ namespace aether_web_software.Pages
 
         public void OnGet()
         {
+
         }
     }
 }
