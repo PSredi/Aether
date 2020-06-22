@@ -1,71 +1,109 @@
-﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
-
-a.navbar-brand {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
+﻿@font-face {
+    src: url("lato-v16-latin-regular.woff2");
+    font-family: latoV16;
 }
 
-/* Provide sufficient contrast against white background */
-a {
-  color: #0366d6;
+* {
+    margin: 0;
+    padding: 0;
+    font-family: latoV16
 }
 
-.btn-primary {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+.container {
+    width: 100%;
+    height: 100%;
+    background-color: black;
 }
 
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+.BrandContainer {
+    margin-top: 150px;
 }
 
-/* Sticky footer styles
--------------------------------------------------- */
-html {
-  font-size: 14px;
-}
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+.LogoContainer {
+    margin-left: 374px;
+    margin-top: -7px;
 }
 
-.border-top {
-  border-top: 1px solid #e5e5e5;
-}
-.border-bottom {
-  border-bottom: 1px solid #e5e5e5;
+.nameContainer {
+    margin-right: 390px;
 }
 
-.box-shadow {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+.logo {
+    height: 50px;
 }
 
-button.accept-policy {
-  font-size: 1rem;
-  line-height: inherit;
+.InputContainer {
+    margin-top: 160px;
 }
 
-/* Sticky footer styles
--------------------------------------------------- */
-html {
-  position: relative;
-  min-height: 100%;
+.UserInput {
+    margin-left: 30px;
 }
 
-body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
+.inputUser {
+    height: 30px;
+    width: 230px;
 }
-.footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  white-space: nowrap;
-  line-height: 60px; /* Vertically center the text there */
+
+.PasswordInput {
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.inputPass {
+    height: 30px;
+    width: 230px;
+}
+
+.FPContainer {
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.FP {
+    color: white;
+    font-size: 14px;
+}
+
+.LoginContainer {
+    margin-top: 120px;
+    margin-left: 30px;
+}
+
+.button {
+    box-shadow: 0px 0px 0px 0px #db0012;
+    background-color: transparent;
+    border: 1px solid #FFF;
+    display: inline-block;
+    cursor: pointer;
+    color: #FFF;
+    font-family: Arial;
+    font-size: 15px;
+    padding: 11px 17px;
+    text-decoration: none;
+    width: 70px;
+    line-height: 10px;
+}
+
+    .button:hover {
+        background-color: transparent;
+        opacity: 0.80;
+    }
+
+    .button:active {
+        position: relative;
+        top: 1px;
+    }
+
+.RegisterContainer {
+    margin-left: 40px;
+    margin-top: 100px;
+}
+
+.register {
+    color: white;
+}
+
+.MarginDiv {
+    margin-top: 150px;
 }

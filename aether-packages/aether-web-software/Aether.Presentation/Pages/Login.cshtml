@@ -1,0 +1,31 @@
+﻿@page
+@model LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container">
+    <div class="BrandContainer" align="center">
+        <div class="LogoContainer" style="float: left"><img src="https://media.discordapp.net/attachments/380288841648701440/722750779869364254/Aether_small.jpg" class="logo" /></div> &nbsp;
+        <div class="nameContainer" style="float: right"> <h1 style="color: white">Aether Engine</h1></div>
+    </div>
+
+    @using(Html.BeginForm())
+    { 
+        <div class="InputContainer" align="center">
+            <div class="UserInput">
+                @Html.LabelFor(x => x.Email, new { style = "color:white;" })&nbsp;
+                @Html.TextBoxFor(x => x.Email, new { @class = "inputUser", type = "email", placeholder = "Email", required = true })
+            </div>
+            <div class="PasswordInput">
+                @Html.LabelFor(x => x.Password, new { style = "color:white;" })&nbsp;
+                @Html.TextBoxFor(x => x.Password, new { @class = "inputPass", type = "password", placeholder = "Password", name = "pass", required = true })
+            </div>
+
+            <div class="FPContainer"><a class="FP" href="#" style="text-decoration: none">Forgot Password? > </a></div>
+            <div class="LoginContainer"><button type="submit" class="button" style="text-decoration: none"><span class="spanLogin">Login</span></button></div>
+            <div class="RegisterContainer"><a class="register" href="Register" style="text-decoration: none">Create an account > </a></div>
+            <div class="MarginDiv"></div>
+        </div>
+    }
+</div>
